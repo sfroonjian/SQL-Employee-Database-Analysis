@@ -28,7 +28,7 @@ Then, by importing the database into Pandas, I need to:
 1. At the top, under the "Kernal" tab, click "Restart & Run All". This will run all the cells on the page and display all the dataframes graphs.
 
 ### Data Collected:
-![](EmployeesSQL/ERD_emplyee_db.png)
+![](EmployeeSQL/ERD_emplyee_db.png)
 ![](EmployeeSQL/figures/query1.png)
 ![](EmployeeSQL/figures/query2.png)
 ![](EmployeeSQL/figures/query3.png)
