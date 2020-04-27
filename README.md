@@ -28,16 +28,16 @@ Then, by importing the database into Pandas, I need to:
 1. At the top, under the "Kernal" tab, click "Restart & Run All". This will run all the cells on the page and display all the dataframes graphs.
 
 ### Data Collected:
-![](figures/query1.png)
-![](figures/query2.png)
-![](figures/query3.png)
-![](figures/query4.png)
-![](figures/query5.png)
-![](figures/query6.png)
-![](figures/query7.png)
-![](figures/query8.png)
-![](figures/salary_histogram.png)
-![](figures/salary_by_title.png)
+![](EmployeeSQL/figures/query1.png)
+![](EmployeeSQL/figures/query2.png)
+![](EmployeeSQL/figures/query3.png)
+![](EmployeeSQL/figures/query4.png)
+![](EmployeeSQL/figures/query5.png)
+![](EmployeeSQL/figures/query6.png)
+![](EmployeeSQL/figures/query7.png)
+![](EmployeeSQL/figures/query8.png)
+![](EmployeeSQL/figures/salary_histogram.png)
+![](EmployeeSQL/figures/salary_by_title.png)
 
 ### Why the data is displayed this way:
 The queries are displayed in tables because they are reports run by PostgreSQL.
