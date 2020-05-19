@@ -1,5 +1,5 @@
 ### Problem this analysis is trying to solve:
-As a new data engineer for a company, my first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files. These are the questions I need to solve by running queries on PostgreSQL:
+Research the employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files. These are the questions I need to solve by running queries on PostgreSQL:
 1. List the employee number, last name, first name, sex, and salary for all employees.
 1. List first name, last name, and hire date for employees who were hired in 1986.
 1. List the managers of each department with the following information: department number, department name, the manager's employee number, last name, first name.
