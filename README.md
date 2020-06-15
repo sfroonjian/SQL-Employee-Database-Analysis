@@ -8,6 +8,7 @@ The purpose of this analysis is to research the employees of the corporation fro
 1. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 1. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 1. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+<!-- end of the list -->
 Then, by importing the database into Pandas, I need to:
 1. Create a histogram to visualize the most common salary ranges for employees.
 1. Create a bar chart of average salaries of employees by title.
