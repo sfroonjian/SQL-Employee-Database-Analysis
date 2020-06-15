@@ -1,5 +1,5 @@
 ### Purpose of this analysis:
-The purpose of this analysis is to research the employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files. These are the questions I need to solve by running queries on PostgreSQL:
+The purpose of this analysis is to research the employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files. These are the problems that were solved by running queries on PostgreSQL:
 1. List the employee number, last name, first name, sex, and salary for all employees.
 1. List first name, last name, and hire date for employees who were hired in 1986.
 1. List the managers of each department with the following information: department number, department name, the manager's employee number, last name, first name.
@@ -9,7 +9,7 @@ The purpose of this analysis is to research the employees of the corporation fro
 1. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 1. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 <!-- end of the list -->
-Then, by importing the database into Pandas, the following charts are created:
+Then, by importing the database into Pandas, the following charts were created:
 1. Histogram to visualize the most common salary ranges for employees
 1. Bar chart of average salaries of employees by title
 
